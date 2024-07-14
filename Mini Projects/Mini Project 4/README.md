@@ -59,6 +59,6 @@ This mini project is part of the Machine Learning course taught by Dr. Aliyari a
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/Mini_Project_4
+git clone https://github.com/dednomerios/ML_2024_Aliyari.git
+cd ML_2024_Aliyari/Mini_Project_4
 
