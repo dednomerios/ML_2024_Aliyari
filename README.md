@@ -54,6 +54,10 @@ The repository is organized as follows:
 
 2. **HW 2: Extra HWs mentioned in Tutorials**
 
+
+### Final project
+predicting customer churn in an online retail setting using various techniques such as GAN, VAE, SMOTE, and clustering.exploring several features and methodologies to improve the accuracy of churn prediction.
+
 ## Getting Started
 
 ### Prerequisites
