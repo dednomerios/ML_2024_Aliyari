@@ -8,10 +8,7 @@ This repository contains a Jupyter Notebook for predicting customer churn in an 
 - [Data Preprocessing](#data-preprocessing)
 - [Modeling Techniques](#modeling-techniques)
 - [Results](#results)
-- [Conclusion](#conclusion)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
