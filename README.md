@@ -9,6 +9,23 @@ This Repos is created by Ali Mehrabi for purpose of the Machine Learning course.
 
 Welcome to the Machine Learning repository for the course taught by Dr. Aliyari at K.N.Toosi University. This repository contains all the Mini-Projects and Homework assignments related to the Machine Learning course.
 
+## Table of Contents
+
+- [Course Overview](#course-overview)
+- [Repository Structure](#repository-structure)
+- [Contents](#contents)
+  - [Mini-Projects](#mini-projects)
+  - [Homework](#homework)
+  - [Final Project](#final-project)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact Information](#contact-information)
+
 ## Course Overview
 
 This course provides an in-depth understanding of machine learning concepts and algorithms. Throughout the course, students will work and get familiar with concepts including basic concept in ML, Linear Regressions and classifiers, Dimension Reduction, SVM, Neural Networks and Reinforcement Learning. 
@@ -64,6 +81,9 @@ predicting customer churn in an online retail setting using various techniques s
 
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`
+- 
+### For any questions or inquiries, please contact Ali Mehrabi at [amehrabi15@gmail.com].
+Feel free to adjust the contact information and any other details as needed.
 
 ### Installation
 
@@ -72,4 +92,6 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/dednoremios/ML_2024_Aliyari.git
 cd ML_2024_Aliyari
+
+
 
