@@ -20,11 +20,12 @@ Welcome to the Machine Learning repository for the course taught by Dr. Aliyari 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+  - [Contact Information](#contact-information)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Contact Information](#contact-information)
+
 
 ## Course Overview
 
